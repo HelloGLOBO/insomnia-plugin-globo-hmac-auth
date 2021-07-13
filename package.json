@@ -6,9 +6,23 @@
     "name": "GLOBO-HMAC-auth",
     "description": "Allows signing request with HMAC authorization headers",
     "publisher": {
-      "name": "GLOBO", 
+      "name": "GLOBO",
       "icon": "https://www.helloglobo.com/hubfs/GLOBO_logo_white4-01.png"
     }
   },
-  "main": "main.js"
+  "main": "main.js",
+  "description": "Insomnia Plugin to sign HMAC request for GLOBO APIs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelloGLOBO/insomnia-plugin-globo-hmac-auth.git"
+  },
+  "author": "GLOBO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HelloGLOBO/insomnia-plugin-globo-hmac-auth/issues"
+  },
+  "homepage": "https://github.com/HelloGLOBO/insomnia-plugin-globo-hmac-auth#readme"
 }
