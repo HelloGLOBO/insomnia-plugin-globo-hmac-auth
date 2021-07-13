@@ -1,7 +1,7 @@
 {
   "name": "insomnia-plugin-globo-hmac-auth",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "insomnia": {
     "name": "GLOBO-HMAC-auth",
     "description": "Allows signing request with HMAC authorization headers",
