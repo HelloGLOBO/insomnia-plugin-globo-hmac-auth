@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-hmac-auth",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "hmac-auth",
+    "description": "Allows signing request with HMAC authorization headers"
+  },
+  "main": "main.js"
+}
